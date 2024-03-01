@@ -1,4 +1,4 @@
-# America_Express_User_Exit_Prediction
+# America Express User Exit Prediction
 # 🚀 Project Overview:
  * Developed an innovative prediction model utilizing Artificial Neural Networks (ANN) in Google Colab to forecast bank account closures. This deep learning project encompasses a range 
    of crucial tasks, including data preprocessing, filtering, encoding, and feature engineering.
